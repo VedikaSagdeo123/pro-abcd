@@ -22,9 +22,9 @@ var con1
 var world,boy;
 
 function preload(){
-	boy=loadImage("images/boy.png");
-	mango1=loadImage("images/mango.png")
-	s1=loadImage("images/stone.png")
+	boy=loadImage("boy.png");
+	mango1=loadImage("mango.png")
+	s1=loadImage("stone.png")
 
   }
 
